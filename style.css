@@ -1,0 +1,14 @@
+
+img {
+    border: 5px solid hotpink;
+    outline: none;
+    padding: 60px 20px;
+    border-radius: 20px;
+    margin-left: 0;
+    transition: all 8s ease-in-out;
+}
+img:hover {
+    margin-left: 500px;
+    border: 20px dotted saddlebrown;
+    transform: rotate(999999999999999deg) scale(4);
+}
